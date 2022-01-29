@@ -124,3 +124,7 @@ Caso o inimigo morra com o seu ataque, o jogo deve exibir “O inimigo não é p
 ### 2.2 Níveis de dificuldade:
 
 O jogo foi pensado com três níveis de dificuldade: fácil, normal e difícil. No nível fácil, todos os inimigos causam 20% a menos de dano no personagem; enquanto no nível difícil o personagem causa 10% a menos de dano nos inimigos. No nível normal não há nenhum modificador sobre o ataque de personagens ou inimigos.
+
+## Imagens do jogo
+![image](https://user-images.githubusercontent.com/90730383/151638328-536f7ebe-6441-4344-a3cd-aabb1d214f8d.png)
+
