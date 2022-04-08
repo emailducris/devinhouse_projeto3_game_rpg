@@ -3,6 +3,13 @@
 ## Introdução
 Trata-se de um game de RPG que foi desenvolvido durante o curso DevInHouse de formação Full Stack do Senai, utilizando apenas a linguagem de programação Java, possui características do que a indústria de software se refere como back-end, o desafio principal foi construir um sistema 100% funcional, sem depender de nenhuma outra tecnologia para exibição. Seguindo as especificações definidas que estão detalhadas logo abaixo.
 
+## Imagens do jogo
+![image](https://user-images.githubusercontent.com/90730383/151638885-ec7facb0-bac5-4c32-ba06-c2da4efaf34c.png)
+![image](https://user-images.githubusercontent.com/90730383/151638978-48ad59e7-96ae-4864-8522-db9882e9804f.png)
+![image](https://user-images.githubusercontent.com/90730383/151639091-00e6b77b-eee2-4dc4-978b-6ae97859f588.png)
+![image](https://user-images.githubusercontent.com/90730383/151639182-e2390b6c-7946-4dea-ba22-5f1a040abd52.png)
+![image](https://user-images.githubusercontent.com/90730383/151639943-c5c17720-0d2f-4ebc-bd90-092511e73c24.png)
+
 ## Requisitos da Aplicação
 A aplicação que deverá ser realizada individualmente, deve contemplar os seguintes requisitos conforme o roteiro do jogo:
 O desenvolvimento das mensagens de saída do jogo, esperando pela ação do usuário; 
@@ -125,11 +132,5 @@ Caso o inimigo morra com o seu ataque, o jogo deve exibir “O inimigo não é p
 
 O jogo foi pensado com três níveis de dificuldade: fácil, normal e difícil. No nível fácil, todos os inimigos causam 20% a menos de dano no personagem; enquanto no nível difícil o personagem causa 10% a menos de dano nos inimigos. No nível normal não há nenhum modificador sobre o ataque de personagens ou inimigos.
 
-## Imagens do jogo
-![image](https://user-images.githubusercontent.com/90730383/151638885-ec7facb0-bac5-4c32-ba06-c2da4efaf34c.png)
-![image](https://user-images.githubusercontent.com/90730383/151638978-48ad59e7-96ae-4864-8522-db9882e9804f.png)
-![image](https://user-images.githubusercontent.com/90730383/151639091-00e6b77b-eee2-4dc4-978b-6ae97859f588.png)
-![image](https://user-images.githubusercontent.com/90730383/151639182-e2390b6c-7946-4dea-ba22-5f1a040abd52.png)
-![image](https://user-images.githubusercontent.com/90730383/151639943-c5c17720-0d2f-4ebc-bd90-092511e73c24.png)
 
 
